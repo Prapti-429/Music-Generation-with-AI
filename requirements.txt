@@ -1,0 +1,4 @@
+numpy
+tensorflow
+music21  # For handling music and MIDI data
+midiutil # For creating MIDI files
