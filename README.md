@@ -11,11 +11,19 @@ This project is an AI-powered music generation system that composes original mus
 
 Music-Generation-AI/
 ├── data/                 # Folder for storing music data (e.g., MIDI files)
+
 ├── models/               # Folder for saving trained models
+
 ├── src/                  # Source code for the project
+
 │   ├── data_loader.py    # Data loading and preprocessing script
+
 │   ├── model.py          # AI model architecture (RNN)
+
 │   └── train.py          # Script to train the model and generate music
+
 ├── requirements.txt      # List of dependencies
+
 ├── README.md             # Project overview
+
 └── .gitignore            # Files to ignore in Git
